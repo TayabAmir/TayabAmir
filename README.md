@@ -57,7 +57,7 @@
       <br>LeetCode
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.png" width="60" height="60"/>
+      <img src="https://art.npanuhin.me/SVG/Codeforces/" width="60" height="60"/>
       <br>Codeforces
     </td>
     <td align="center">
