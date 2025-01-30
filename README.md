@@ -6,6 +6,7 @@
 ## Tech Stack and Tools  
 ## 🚀 Tech Stack and Tools
 
+<div style="margin-left: 20px;">
 <table>
   <tr>
     <td align="center">
@@ -74,6 +75,8 @@
     </td>
   </tr>
 </table>
+</div>
+
 
 
 ## Let's Connect
