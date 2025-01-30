@@ -4,9 +4,8 @@
 - 📚 I love exploring new **technologies**, improving my **DSA skills**, and participating in **coding contests**.
 
 ## Tech Stack and Tools  
-## 🚀 Tech Stack and Tools
 
-<div style="margin-left: 20px;">
+<div align="center">
 <table>
   <tr>
     <td align="center">
