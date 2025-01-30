@@ -23,6 +23,6 @@
 </p>
 
 ## Let's Connect
-📧 Email: amirtayyab8@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/tayyab0/
-🌎 Whatsapp: +92336-0845-675  
+- 📧 Email: amirtayyab8@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tayyab0/
+- 🌎 Whatsapp: +92336-0845-675  
