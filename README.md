@@ -1,4 +1,4 @@
-## About Me
+![image](https://github.com/user-attachments/assets/868677cb-d8a4-4447-ae43-d348b44ecc76)## About Me
 - 👨‍💻 I am a **MERN Stack Developer** passionate about building web applications.
 - 🏆 I have strong **problem-solving skills** and have won multiple **coding competitions**.
 - 📚 I love exploring new **technologies**, improving my **DSA skills**, and participating in **coding contests**.
@@ -32,12 +32,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
       <br>Next.js
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
       <br>Express.js
@@ -60,6 +60,10 @@
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"/>
+      <br>.NET
+    </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" height="60"/>
       <br>LeetCode
