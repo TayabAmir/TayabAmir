@@ -21,8 +21,16 @@
       <br>JavaScript
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+      <br>TypeScript
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
       <br>React.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+      <br>Next.js
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
@@ -57,7 +65,7 @@
       <br>LeetCode
     </td>
     <td align="center">
-      <img src="https://art.npanuhin.me/SVG/Codeforces/" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Codeforces_logo.svg/1024px-Codeforces_logo.svg.png" width="60" height="60"/>
       <br>Codeforces
     </td>
     <td align="center">
@@ -75,8 +83,6 @@
   </tr>
 </table>
 </div>
-
-
 
 ## Let's Connect
 - 📧 Email: amirtayyab8@gmail.com
