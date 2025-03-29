@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/868677cb-d8a4-4447-ae43-d348b44ecc76)## About Me
+## About Me
 - 👨‍💻 I am a **MERN Stack Developer** passionate about building web applications.
 - 🏆 I have strong **problem-solving skills** and have won multiple **coding competitions**.
 - 📚 I love exploring new **technologies**, improving my **DSA skills**, and participating in **coding contests**.
@@ -77,7 +77,7 @@
       <br>Tailwind CSS
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.png" width="60" height="60"/>
+      <img src="![image](https://github.com/user-attachments/assets/868677cb-d8a4-4447-ae43-d348b44ecc76)" width="60" height="60"/>
       <br>HackerRank
     </td>
     <td align="center">
