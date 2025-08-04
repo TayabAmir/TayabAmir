@@ -65,7 +65,7 @@
       <br>LeetCode
     </td>
     <td align="center">
-      <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4744e857-1790-4aee-aed0-ad9ab4475ec0" width="60" height="60"/>
+      <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4744e857-1790-4aee-aed0-ad9ab4475ec0" width="45" height="45"/>
       <br>Codeforces
     </td>
     <td align="center">
