@@ -2,6 +2,7 @@
 - 👨‍💻 I am a **Full Stack Developer**, with a solid understanding of **Microservices** architecture and **DevOps** practices.
 - 🏆 I have strong **problem-solving skills** and have won multiple **coding competitions**.
 - 📚 I love exploring new **technologies**, improving my **DSA skills**, and participating in **coding contests**.
+- 🌐 Check out my portfolio: https://portfolio-tayyab-0.vercel.app/
 
 ## Tech Stack and Tools  
 
