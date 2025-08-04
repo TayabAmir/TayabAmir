@@ -47,6 +47,10 @@
       <br>MongoDB
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+      <br>Git
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
       <br>C#
     </td>
@@ -65,7 +69,7 @@
       <br>LeetCode
     </td>
     <td align="center">
-      <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4744e857-1790-4aee-aed0-ad9ab4475ec0" width="45" height="45"/>
+      <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/df05b8ba-52cd-4c0d-8cbb-3aa0e9cfb333" width="60" height="60"/>
       <br>Codeforces
     </td>
     <td align="center">
@@ -73,13 +77,10 @@
       <br>Tailwind CSS
     </td>
     <td align="center">
-      <img src="![image](https://github.com/user-attachments/assets/868677cb-d8a4-4447-ae43-d348b44ecc76)" width="60" height="60"/>
-      <br>HackerRank
+      <img src="[![image](https://github.com/user-attachments/assets/868677cb-d8a4-4447-ae43-d348b44ecc76)](https://www.google.com/imgres?q=Nest.js%20image&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fa%2Fa8%2FNestJS.svg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANestJS.svg&docid=7eFXd4r-GaYozM&tbnid=9sLcBGoiaLkpXM&vet=12ahUKEwjivo3I5PCOAxVI4gIHHX-fPMoQM3oECCEQAA..i&w=1000&h=966&hcb=2&ved=2ahUKEwjivo3I5PCOAxVI4gIHHX-fPMoQM3oECCEQAA)" width="60" height="60"/>
+      <br>Nest.js
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
-      <br>Git
-    </td>
+    
   </tr>
 </table>
 </div>
