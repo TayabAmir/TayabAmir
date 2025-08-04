@@ -1,5 +1,5 @@
 ## About Me
-- 👨‍💻 I am a **MERN Stack Developer** passionate about building web applications.
+- 👨‍💻 I am a **Full Stack Developer** passionate about building web applications, with a solid understanding of **Microservices** architecture and **DevOps** practices.
 - 🏆 I have strong **problem-solving skills** and have won multiple **coding competitions**.
 - 📚 I love exploring new **technologies**, improving my **DSA skills**, and participating in **coding contests**.
 
@@ -51,10 +51,6 @@
       <br>C#
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-      <br>Python
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
       <br>C++
     </td>
@@ -69,7 +65,7 @@
       <br>LeetCode
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Codeforces_logo.svg/1024px-Codeforces_logo.svg.png" width="60" height="60"/>
+      <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4744e857-1790-4aee-aed0-ad9ab4475ec0" width="60" height="60"/>
       <br>Codeforces
     </td>
     <td align="center">
