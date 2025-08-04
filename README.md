@@ -77,7 +77,7 @@
       <br>Tailwind CSS
     </td>
     <td align="center">
-      <img alt="image" src="https://github.com/user-attachments/assets/baffe0f4-6279-4002-9e5c-2c0599831bf1" />
+      <img alt="image" src="https://github.com/user-attachments/assets/baffe0f4-6279-4002-9e5c-2c0599831bf1" width="60" height="60"/>
       <br>Nest.js
     </td>
     
